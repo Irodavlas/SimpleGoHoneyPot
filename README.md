@@ -1,6 +1,7 @@
 # SSH Honeypot Server (Go)
 
 A simple SSH honeypot server written in Go that logs password attempts and connection metadata.
+Project OnGoing.
 
 
 ## 🔹 Overview
